@@ -1,1 +1,1 @@
-# Data-Preprocessing
+Data pre-processing is a data mining technique that involves transforming raw data into an understandable format.Data pre-processing includes cleaning, feature Scaling, feature transformation, selection and feature extraction.
